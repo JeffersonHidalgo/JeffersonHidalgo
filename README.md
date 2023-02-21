@@ -1,4 +1,4 @@
-<Center>![MasterHead](https://i.pinimg.com/564x/92/05/71/92057130e67ca2fe18a6b430bb05aefb.jpg)</center>
+![MasterHead](https://i.pinimg.com/564x/92/05/71/92057130e67ca2fe18a6b430bb05aefb.jpg)
 <br>
 
 
