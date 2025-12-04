@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm JeffersonHidalgo</h1>
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on Cooperativa Vega Real<br>👯 I’m looking to collaborate on FitTracker<br>🌱 I’m learning programming and cybersecurity, and I will start the process of learning PL/SQL<br>💬 Ask me About editing, programming, and sports.<br>⚡ Fun fact i like sport, software, video games and editing 
 
 
